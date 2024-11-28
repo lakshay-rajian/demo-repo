@@ -1,4 +1,4 @@
 ## DEMO
 
 This is a readme file.
-This is another line edited.
+One line is removed and another line added.
